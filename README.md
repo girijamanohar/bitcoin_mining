@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a Bitcoin mining software designed to demonstrate how mining works and to participate in the Bitcoin network by solving cryptographic puzzles to secure transactions and create new blocks.
+This project is a Bitcoin mining program designed to demonstrate how mining works and to participate in the Bitcoin network by solving cryptographic puzzles to secure transactions and create new blocks.
 
 ## Features
 
