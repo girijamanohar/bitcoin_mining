@@ -26,4 +26,4 @@ For Python:
 Bitcoin
 
 ## Contact
-For any questions or issues, please contact us at manohar1435@sasi.ac.in
+For any questions or issues, please contact us at manohar1434@sasi.ac.in
